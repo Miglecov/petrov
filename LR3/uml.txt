@@ -5,5 +5,5 @@ entity "Данные" as data
 owner -> app : Запрос
 app -> data : Конфигурация программы моделирования
 data -> app : Ответ
-app -> owner : Конфигурация выбрана
+app -> owner : Конфигурация назначена
 @enduml
