@@ -1,4 +1,4 @@
-# [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-id..) Петров Никита
+# [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Петров Никита
 
 ## Домашние задания по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1#Ма..) и [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2#Ма..)
 
