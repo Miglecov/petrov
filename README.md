@@ -24,7 +24,7 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](https://github.com/miglecov/petrov/tree/main/ptrv/01_A-0.png
+![A-0](https://github.com/Miglecov/petrov/blob/main/Ptrv/01_A0.png
 )
 
 * A0 (диаграмма верхнего уровня)
