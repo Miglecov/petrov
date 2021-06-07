@@ -70,13 +70,13 @@
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 Диаграмма UML Use Case
-![p4](http://www.plantuml.com/plantuml/png/ZP11JlCm48NtFeNbVHT_smFqAbRgdqOaCNASFKaN4GA1E07Y1Y5gr53KdE7DZR1hXP05WaIQqSoyJyypcznAOuiqOVbrdDr88rEUwan7EwDJnQqf54lKVykjvYQ-sbc-ZOsARAmpncHajU42BnZmGGyukjoYeGgThyMNu1a3LUAxdcgdQWHpNv6hIEQA-_2FozmBw1O3UXpHkdn0JnN76GsLL5r6xpZHNipGPK33M_PKeq7dC2enkF-Dxj3XZ1xT75i5x9LgxqBtQFy8hYU_0qxEyt7qf9AU16C_dOKl5c5NTec-30VwbLYoiEX4X3JELsmwxTIRQzOppTZRg6nRfCad)
+![p4](http://www.plantuml.com/plantuml/png/XL9BJiD03Dtx55RsNT1FrxrAb0uqeadGPBhlXy-YI0Wsi885721yeXPAqYlODyB944eYK1N9pfjvxzbnF8YDgyqa64Dyx8SdhdO33A8myaOw2XGQFL4mLeS6JOJQFneP7FfQUSQFGW3NCv56XnuefmrVqaho2oKyfxJ0pW_XcdAUx-0TPNmgHrDAUSOBdlBC0PZ4odDZXKKuG3SMuWqlwRaW8drG9kvRoMkdHcrRwYDjnI-H-XjAXRkc5CkZd5xBYqzvSdglYpjMVC_pIYu54YpQbTTKee2i22jAh1tFwXPTQt6xkqTQLnyeDHC-5znekcT5Td0BljYr_2O-cSYNV5QNzAtagRAbZGXMrfwl6aBuxvzWg_KzuBsKzbv6Po-Z2s2h2RPRKE9s0tSQkFiBWysLOm_AMC2_zgZ1xiD0XKDPxoy0)
 
-**4.1 Идентификатор прецедента:** А33
+**4.1 Идентификатор прецедента:** А4
 
 **4.2 Название прецедента:** Отправка сообщения пользователям Telegram
 
-**4.3 Контекст:** А3
+**4.3 Контекст:** А0
 
 **4.4 Участники (actors) и цели (goals):**
 
