@@ -53,15 +53,19 @@
 
 **Конфигурация программных средств:** Многоуровневые.
 
-**Допустимые виды хранилищ и их размещение:** Почтовый сервер, сервер Amazon AWS, запоминающее устройство ПК.
+**Допустимые виды хранилищ и их размещение:** Хранилище предопределенных значений, запоминающее устройство ПК.
+
+* A21 Автоматизация процесса А21
+
+![A21](https://github.com/Miglecov/petrov/blob/main/Ptrv/04_A21.png)
 
 * A32 Автоматизация процесса А32
 
-![A32](https://github.com/vivatgeorge/nikitin/blob/main/06_A32.jpg)
+![A32](https://github.com/Miglecov/petrov/blob/main/Ptrv/07_A32.png)
 
-* A33 Автоматизация процесса А33
+* A43 Автоматизация процесса А43
 
-![A33](https://github.com/vivatgeorge/nikitin/blob/main/07_A33.jpg)
+![A43](https://github.com/Miglecov/petrov/blob/main/Ptrv/09_A43.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
