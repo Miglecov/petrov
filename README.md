@@ -29,19 +29,19 @@
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](https://github.com/vivatgeorge/nikitin/blob/main/02_A0.jpg)
+![A0](https://github.com/Miglecov/petrov/blob/main/Ptrv/02_A0.png)
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2](https://github.com/vivatgeorge/nikitin/blob/main/04_A2.jpg)
+![A2](https://github.com/Miglecov/petrov/blob/main/Ptrv/03_A2.png)
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](https://github.com/vivatgeorge/nikitin/blob/main/05_A3.jpg)
+![A3](https://github.com/Miglecov/petrov/blob/main/Ptrv/06_A3.png)
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4](https://github.com/vivatgeorge/nikitin/blob/main/08_A4.jpg)
+![A4]https://github.com/Miglecov/petrov/blob/main/Ptrv/06_A4.png)
 
 
 
