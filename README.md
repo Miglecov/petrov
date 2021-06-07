@@ -41,7 +41,7 @@
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4](https://github.com/Miglecov/petrov/blob/main/Ptrv/06_A4.png)
+![A4](https://github.com/Miglecov/petrov/blob/main/Ptrv/08_A4.png)
 
 
 
