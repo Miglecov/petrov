@@ -206,7 +206,7 @@ https://miglecov.github.io/miglecov/#!/topics
 
 Выявление процессов, нуждающихся в повышении качества.
 
-![1](https://github.com/vivatgeorge/nikitin/blob/main/1.png)
+![1](https://github.com/miglecov/petrov/blob/main/1.png)
 
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
