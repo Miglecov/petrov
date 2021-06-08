@@ -156,7 +156,7 @@
 * **Описываемый объект:** Струкрутра программных средств системы
 
 * **Диаграмма UML Component:**
-![p7](http://www.plantuml.com/plantuml/png/LL31IWCn5BpdAnuzwQ7_q9P5N6YXK6_Y8TIWnKrIikczBQ873tw21tzWBQoqQFSRtliZ9v4UUXdclPdC91dKKOUuifMgdnPkgOEsPBtpyyVWhQ4OLaQfkRTBxuoBTCiVtCchRBdZdRpnWMJ3hQnvb_2ET4t5wDmFSSy_y7zpoqVmbcvCPHxGbFtbxCp_AHlPuap7XyGGt10gK-4NriqfHju9MKTvXhZcNsxa1VC-HrvF2gKkBgbtAgBXjEmbPPpNvMGupUFLeiBpYX7r_sa2S5ofd54VxZ4mfGsCkySd_G40)
+![p7](http://www.plantuml.com/plantuml/png/POvDIWD148NtTOeYArruXnW6SM048Ux4nH0R3KvtX_dP9_wuSU7MlHSO0v49E7s6LpUoPaImSLFz-XLVlJUjwhoi6rjGTRTqgxpCBLll_EAszDPmNJQ6QE7joZlZQhx46tfvH90rlj3ACpe4zEgzOCzgxcGZ3xAMpHNd5IUpl-o5ASoD1eohT1wTVLVkNlc0_Q2mHSi8AW8-r6xnYHrwTFBAwFvLwCQJfsS9qS4XJtw3-FWydGoRRBJr5yDHVtcA-gkz7TcJPM68aXaV_SXXgDR-wLpVZ3ATG_JKkEl65jy0)
 
 ### 8. Демонстрация реализации (личная страница)
 
