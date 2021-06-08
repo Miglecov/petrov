@@ -229,7 +229,7 @@ https://miglecov.github.io/miglecov/#!/topics
 
 **10.5 План-факт сравнение для затрат на реализацию: [💻](https://docs.google.com/spreadsheets/d/11KghKnPycU-EtbHJ3dKK5FQjPntsd9ZQ9LVSzg9Ou5E/edit#gid=1983994942)**
 
-![4](https://github.com/vivatgeorge/nikitin/blob/main/V6.jpg)
+![3](https://github.com/miglecov/petrov/blob/main/3.png)
 
 **Из расчета:**
 
